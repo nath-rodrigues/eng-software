@@ -19,5 +19,7 @@ salva é reconhecida automaticamente. Ao tentar reservar a vaga B1
 ## Autoavaliação
 
 Não consegui implementar todos os critérios pedidos
+
 O requisito mais difícil foi o da vaga restrita pois precisei decidir o que fazer depois da confirmação
+
 Resolvi separando essa lógica numa função própria que retorna se a reserva foi feita ou não
