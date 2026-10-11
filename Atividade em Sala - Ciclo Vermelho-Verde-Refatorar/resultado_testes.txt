@@ -1,0 +1,14 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.15, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\natha\AppData\Local\Programs\Python\Python313\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\natha\OneDrive\facul\6 periodo\eng software\eng-software\Atividade em Sala - Ciclo Vermelho-Verde-Refatorar
+collecting ... collected 6 items
+
+test_frete.py::test_pac_calcula_valor_fixo_mais_valor_por_kg PASSED      [ 16%]
+test_frete.py::test_sedex_calcula_valor_fixo_mais_valor_por_kg PASSED    [ 33%]
+test_frete.py::test_retirada_na_loja_e_gratis PASSED                     [ 50%]
+test_frete.py::test_tipo_desconhecido_gera_erro PASSED                   [ 66%]
+test_frete.py::test_peso_zero_gera_erro PASSED                           [ 83%]
+test_frete.py::test_peso_negativo_gera_erro PASSED                       [100%]
+
+============================== 6 passed in 0.01s ==============================
